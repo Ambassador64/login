@@ -436,8 +436,7 @@
 		end
 		
 		setAlphaCheck(errorLabel, value)
-		-- Below works, renable it later
-		--guiSetAlpha(errorLabel, value) -- Bug the script keeps checking for this even after the window has been deleted
+		
 
 	end
 	
